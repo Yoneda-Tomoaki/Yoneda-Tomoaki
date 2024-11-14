@@ -1,4 +1,4 @@
-[yonex](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=%20yonex%20)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=%20yonex%20)
 ## Hi there 👋 I'm 米田!
 
 I'm a college student passionate about technology and innovation. Currently, I'm focusing on projects related to electric car battery lifespan prediction and safety management to help prevent battery-related incidents. I'm also interested in enhancing my programming skills, especially in Python, to develop AI models and improve data analysis capabilities.
