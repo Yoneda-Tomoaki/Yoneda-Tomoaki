@@ -12,7 +12,9 @@ Data Analysis: I enjoy deriving valuable insights from data.
 I am passionate about soccer—I love playing and watching matches!
 Through sports, I’ve learned the importance of teamwork and collaboration.
 
-
+📂 Featured Project
+Check out my latest project here:
+🔗
 
 <!--
 **Yoneda-Tomoaki/Yoneda-Tomoaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
