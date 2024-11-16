@@ -14,6 +14,7 @@ Through sports, I’ve learned the importance of teamwork and collaboration.
 
 📂 Featured Project
 Check out my latest project here:
+
 🔗 https://github.com/HaraYone/directory
 🔗 
 <!--
