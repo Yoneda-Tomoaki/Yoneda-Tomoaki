@@ -1,29 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=%20yonex%20)
 ## Hi there 👋 I'm 米田!
 
-I'm a college student passionate about technology and innovation. Currently, I'm focusing on projects related to electric car battery lifespan prediction and safety management to help prevent battery-related incidents. I'm also interested in enhancing my programming skills, especially in Python, to develop AI models and improve data analysis capabilities.
+私は鮮文大学で、AIソフトウェア学科を専攻している米田です。
 
-### 🔭 Projects I'm Working On
-- **Battery Lifespan Prediction**: Using machine learning models to estimate the lifespan of lithium-ion batteries and ensure safety.
-- **AI for Electric Vehicles**: Developing AI models to improve the efficiency and safety of electric car batteries.
-
-### 🌱 Currently Learning
-- Advanced Python for data science and machine learning
-- Techniques for improving battery safety and lifespan prediction through AI
-
-### 👯 Looking to Collaborate On
-- Battery technology projects
-- AI and machine learning applications in environmental and energy sectors
-
-### 💬 Ask Me About
-- My experience in team development environments across cultures
-- Battery safety and predictive technology for electric vehicles
-
-### 📫 How to Reach Me
-- Feel free to connect with me on GitHub!
-
-### ⚡ Fun Fact
-- I enjoy working with international teams and am always open to learning new languages and cultures.
+🔍 興味・専門分野
+簡単なAIモデルの構築
+プログラミング：Pythonを中心に学び、　大学でチーム開発の経験も積んでいます。
+データ分析：データから有益な洞察を引き出すことが好きです。
+⚽ 趣味
+サッカーが大好きで、プレーするのはもちろん、試合観戦も楽しんでいます！
+スポーツを通じてチームワークの大切さを学びました。
 
 
 <!--
