@@ -3,13 +3,15 @@
 
 私は鮮文大学で、AIソフトウェア学科を専攻している米田です。
 
-🔍 興味・専門分野
-簡単なAIモデルの構築
-プログラミング：Pythonを中心に学び、　大学でチーム開発の経験も積んでいます。
-データ分析：データから有益な洞察を引き出すことが好きです。
-⚽ 趣味
-サッカーが大好きで、プレーするのはもちろん、試合観戦も楽しんでいます！
-スポーツを通じてチームワークの大切さを学びました。
+🔍 Interests & Expertise
+Building simple AI models.
+Programming: Focused on learning Python, with experience in team development projects at university.
+Data Analysis: I enjoy deriving valuable insights from data.
+
+⚽ Hobbies
+I am passionate about soccer—I love playing and watching matches!
+Through sports, I’ve learned the importance of teamwork and collaboration.
+
 
 
 <!--
