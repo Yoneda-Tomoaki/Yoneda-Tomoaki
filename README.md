@@ -14,8 +14,7 @@ Through sports, I’ve learned the importance of teamwork and collaboration.
 
 📂 Featured Project
 Check out my latest project here:
-🔗
-
+🔗 https://github.com/HaraYone/directory
 <!--
 **Yoneda-Tomoaki/Yoneda-Tomoaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
