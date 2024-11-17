@@ -16,7 +16,7 @@ Through sports, I’ve learned the importance of teamwork and collaboration.
 Check out my latest project here:
 
 🔗 https://github.com/HaraYone/directory
-🔗 
+🔗 https://www.notion.so/AI-ML-Team3-1360a7c40e4f80388754d6d8f93bdac8?pvs=4
 <!--
 **Yoneda-Tomoaki/Yoneda-Tomoaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
